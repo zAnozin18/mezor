@@ -1,11 +1,17 @@
 git init  - privyaska proekta k git
 git remote add origin ( https://github.com/zAnozin18/???.git ) - privyaska proekta k repositoriy
 
-
+1 odin raz
+-------------------------------------------------------------------------------------------------------------
 git add . - dobavka chego-to novogo
 
 git commit -m "checkpoit"
 
 git push origin main - start
 
+vsegda
+--------------------------------------------------------------------------------------------------------------------
 git rm --cached -r    - ydalit papky
+
+Na vsyakiy
+--------------------------------------------------------------------------------------------------------------------

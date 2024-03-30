@@ -7,8 +7,7 @@ window.configure(bg="black")
 
 
 def qwert():
-    num1 = text1.get()
-    num1 = int(num1)
+    num1=int("введите текст")
     return num1
 
 
